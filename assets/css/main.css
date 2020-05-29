@@ -4058,3 +4058,17 @@ a {
 			}
 
 		}
+
+		.solutions {
+		width: 80%;
+		height:200px;
+ 		margin: 5rem ; 
+ 		font-size: 4rem;
+		padding: 10rem 0;
+		}
+
+		.toper {
+			padding-top: 40px;
+		}
+
+		

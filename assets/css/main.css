@@ -1765,7 +1765,7 @@ a {
 		font-weight: 700;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
+		font-family: "Playfair Display";
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -3851,10 +3851,10 @@ a {
 /* Footer */
 
 	#footer {
-		background-color: #e5474b;
+		background-color: #ca5f63;
 		color: #f2a3a5;
 		padding: 4em 0 2em 0;
-		background: #e5474b;
+		background: #ca5f63;
 	}
 
 		#footer input, #footer select, #footer textarea {

@@ -1958,7 +1958,6 @@ a {
 		padding: 0 2.25em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
 		white-space: nowrap;
 	}
 
@@ -2173,7 +2172,6 @@ a {
 	label {
 		display: block;
 		font-size: 0.9em;
-		text-transform: uppercase;
 		font-weight: 700;
 		margin: 0 0 1em 0;
 	}
@@ -3265,7 +3263,6 @@ a {
 			padding: 0 2em;
 			color: #ffffff;
 			text-decoration: none;
-			text-transform: uppercase;
 			font-weight: 700;
 			font-size: .85em;
 		}
@@ -3388,7 +3385,6 @@ a {
 		max-width: 80%;
 		width: 20em;
 		padding: 1.5em;
-		text-transform: uppercase;
 		z-index: 10003;
 		display: none;
 	}
@@ -3851,10 +3847,10 @@ a {
 /* Footer */
 
 	#footer {
-		background-color: #ca5f63;
+		background-color: #d8777a;
 		color: #f2a3a5;
 		padding: 4em 0 2em 0;
-		background: #ca5f63;
+		background: #d8777a;
 	}
 
 		#footer input, #footer select, #footer textarea {

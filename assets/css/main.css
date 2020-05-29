@@ -3249,6 +3249,12 @@ a {
 			#header .logo:hover {
 				color: rgba(229, 71, 75, 0.75);
 			}
+			#header .logo img {
+				margin: 0 auto;
+				max-width: 300px;
+				width: 50%;
+				padding-top: 3%;
+			  }
 
 		#header a {
 			-moz-transition: color 0.2s ease-in-out;
@@ -3302,7 +3308,7 @@ a {
 
 		}
 
-	.navPanelToggle {
+	.nav-panel-toggle {
 		position: fixed;
 		text-decoration: none;
 		height: 4em;
@@ -3313,7 +3319,7 @@ a {
 		z-index: 10002;
 	}
 
-		.navPanelToggle:before {
+		.nav-panel-toggle:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			font-family: FontAwesome;
@@ -3334,7 +3340,7 @@ a {
 
 		@media screen and (max-width: 980px) {
 
-			.navPanelToggle {
+			.nav-panel-toggle {
 				display: block;
 			}
 
@@ -3342,13 +3348,13 @@ a {
 
 		@media screen and (max-width: 736px) {
 
-			.navPanelToggle {
+			.nav-panel-toggle {
 				right: 1em;
 			}
 
 		}
 
-		.navPanelToggle *:before {
+		.nav-panel-toggle *:before {
 			color: #fff;
 			display: block;
 			font-size: 16px;
